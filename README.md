@@ -48,7 +48,7 @@ An end-to-end Excel analysis of retail profitability, returns, discounting, prod
 
 A security analytics project designed to help a fictional healthcare organization prioritize vulnerability remediation using asset, CVE, severity, exploitability, and operational-risk data.
 
-**Tools:** Python, SQL, PostgreSQL, Pandas, vulnerability data  
+**Tools:** Microsoft SQL Server, T-SQL, dimensional modelling; Python and Power BI phases planned  
 **Status:** In progress
 
 More portfolio projects will be added as they reach a review-ready state.
